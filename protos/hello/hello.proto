@@ -1,6 +1,6 @@
 syntax="proto3";
 
-option go_package = "github.com/OscarLlamas/grpc-helpers/protos/hello";
+option go_package = "github.com/OscarLlamas6/grpc-helpers/protos/hello";
 
 message User {
   string name=1;
