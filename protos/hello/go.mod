@@ -1,4 +1,4 @@
-module hello
+module github.com/OscarLlamas6/grpc-helpers/protos/hello
 
 go 1.17
 
